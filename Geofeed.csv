@@ -1,0 +1,5 @@
+# prefix,country_code,region_code,city,postal
+91.233.42.0/24,RU,,Rostov-on-Don,344000
+91.233.43.0/24,RU,,Anapa,353440
+193.16.232.0/24,RU,,Rostov-on-Don,344000
+194.26.226.0/24,RU,,Anapa,353440
